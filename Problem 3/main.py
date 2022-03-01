@@ -1,7 +1,7 @@
 import math
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     biggest_divisor = 0
     special_number = 600851475143
 

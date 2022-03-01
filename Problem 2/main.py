@@ -2,7 +2,7 @@ def is_even(n):
     return not n % 2
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     _sum = 0
 
     first = 1
